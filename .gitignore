@@ -1,0 +1,15 @@
+.venv/
+.ipynb_checkpoints
+~$*
+*.tmp
+*Thesis*
+*Proposal*
+old/
+*Abstract* 
+/oud
+
+pictures/
+
+DNM meeting*
+local/
+papers/
